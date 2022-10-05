@@ -1,0 +1,6 @@
+ <h2 class='destination heading-background'>2. Beijing, China</h2>
+
+ <chaining>
+    h2.destination {
+        font-family: Tahoma;
+      }
